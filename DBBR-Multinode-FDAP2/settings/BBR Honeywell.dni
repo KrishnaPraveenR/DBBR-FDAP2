@@ -1,0 +1,58 @@
+[JLinkDriver]
+WatchCond=_ 0
+Watch0=_ 0 "" 0 "" 0 "" 0 "" 0 0 0 0
+Watch1=_ 0 "" 0 "" 0 "" 0 "" 0 0 0 0
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=1293696733
+[InstructionProfiling]
+Enabled=_ 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Source=2
+Graph=0
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\sources\Isa100\tlde.c}.388.3@1" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\sources\Isa100\mlde.c}.1281.11@1" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\sources\ipv4\udp.c}.513.29@1" 0 0 0 0 "" 0 "" 0
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\sources\Isa100\tlde.c}.437.3@1" 0 0 0 0 "" 0 "" 0
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\sources\Isa100\tlde.c}.612.3@1" 0 0 0 0 "" 0 "" 0
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\sources\eth.c}.489.5@1" 0 0 0 0 "" 0 "" 0
+Bp6=_ "STD_CODE" "{$PROJ_DIR$\sources\eth.c}.573.11@1" 0 0 0 0 "" 0 "" 0
+Bp7=_ "STD_CODE" "{$PROJ_DIR$\sources\eth.c}.463.31@1" 0 0 0 0 "" 0 "" 0
+Bp8=_ "STD_CODE" "{$PROJ_DIR$\sources\eth.c}.368.37@1" 0 0 0 0 "" 0 "" 0
+Bp9=_ "STD_CODE" "{$PROJ_DIR$\sources\main.c}.110.15@1" 0 0 0 0 "" 0 "" 0
+Count=10
+[Aliases]
+A0=_ "C:\E359862\D\One wireless\DBBR_B_Before_Yoko_lookReadme\New folder\__DBBR2_FINAL_MASTER\board support\5_20_Cstartup.s" ""
+A1=_ "C:\E359862\D\One wireless\DBBR_B_Before_Yoko_lookReadme\New folder\__DBBR2_FINAL_MASTER\sources\itc.c" ""
+Count=2
+SuppressDialog=0

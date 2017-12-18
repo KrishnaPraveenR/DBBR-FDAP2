@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>21</ColumnWidth0>
+        <ColumnWidth1>12</ColumnWidth1>
+        <ColumnWidth2>12</ColumnWidth2>
+        <ColumnWidth3>12</ColumnWidth3>
+      <PreferedWindows><Position>4</Position><ScreenPosX>147</ScreenPosX><ScreenPosY>779</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Breakpoints</Factory></Window><Window><Factory>CallStack</Factory></Window></Windows></PreferedWindows></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>183</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+      <Find-in-Files>
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Breakpoints</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Disassembly</Factory></Window></Windows></PreferedWindows><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files>
+    <Watch><Format><struct_types><Fmt><Key>DLL_SMIB_ROUTE-m_unUID</Key><Value>4</Value></Fmt></struct_types><watch_formats><Fmt><Key>{W}Watch-0:value</Key><Value>4</Value></Fmt></watch_formats></Format><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Breakpoints</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Disassembly</Factory></Window><Window><Factory>Memory</Factory></Window></Windows></PreferedWindows><Column0>145</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch><CallStack><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Breakpoints</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Disassembly</Factory></Window></Windows></PreferedWindows><ViewArgs>1</ViewArgs></CallStack><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Disassembly</Factory></Window></Windows></PreferedWindows></Breakpoints><Memory><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Breakpoints</Factory></Window><Window><Factory>Watch</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Disassembly</Factory></Window></Windows></PreferedWindows><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory><QuickWatch><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Watch</Factory></Window></Windows></PreferedWindows><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></QuickWatch><Register><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Register></Static>
+    <Windows>
+      
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19326-20199</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>BBR Honeywell</ExpandedNode><ExpandedNode>BBR Honeywell/isa100</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-2396-11818</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab><Tab><Identity>TabID-2418-13660</Identity><TabName>Call Stack</TabName><Factory>CallStack</Factory><Session/></Tab><Tab><Identity>TabID-6663-13990</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-5387-14218</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-3532-14278</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab><Tab><Identity>TabID-15302-30101</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>m_aSecMngrEUI64</Expression></Expression><Expression><Expression>m_aIpv6BBR</Expression></Expression><Expression><Expression>g_DMO</Expression></Expression><Expression><Expression>g_stDMO</Expression></Expression><Expression><Expression>g_stDll.m_stRoutes.m_aTable</Expression></Expression></Expressions><TabId>0</TabId><Column0>145</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab><Tab><Identity>TabID-28518-32515</Identity><TabName>Memory</TabName><Factory>Memory</Factory><Session><ZoneNumber>0</ZoneNumber><SelectionAnchor>0</SelectionAnchor><SelectionEnd>0</SelectionEnd><UnitsPerGroup>1</UnitsPerGroup><EndianMode>0</EndianMode><DataCovEnabled>0</DataCovEnabled><DataCovShown>0</DataCovShown><AutoRefresh>0</AutoRefresh><HScroll>0</HScroll><VScroll>0</VScroll></Session></Tab><Tab><Identity>TabID-16494-32740</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>((uint8*)&amp;c_ulIP)</Expression></Expression><Expression><Expression>m_auc128BitAddr</Expression></Expression><Expression><Expression>m_auc128BitAddr</Expression></Expression><Expression><Expression>g_stDMO</Expression></Expression><Expression><Expression>c_ulIP4LOGAck</Expression></Expression><Expression><Expression>p_pEthMsg</Expression></Expression></Expressions><TabId>1</TabId><Column0>145</Column0><Column1>192</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab><Tab><Identity>TabID-4114-8039</Identity><TabName>Quick Watch</TabName><Factory>QuickWatch</Factory><Session><Expression>c_ulIP4LOG</Expression></Session></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\board support\5_20_Cstartup.s</Filename><XPos>0</XPos><YPos>215</YPos><SelStart>8359</SelStart><SelEnd>8359</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\main.c</Filename><XPos>0</XPos><YPos>76</YPos><SelStart>1624</SelStart><SelEnd>1624</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\Isa100\provision.c</Filename><XPos>0</XPos><YPos>424</YPos><SelStart>18238</SelStart><SelEnd>18258</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\Isa100\provision.h</Filename><XPos>0</XPos><YPos>145</YPos><SelStart>5041</SelStart><SelEnd>5041</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\eth.c</Filename><XPos>0</XPos><YPos>540</YPos><SelStart>20816</SelStart><SelEnd>20816</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\ethernet\IPlookup.c</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>537</SelStart><SelEnd>537</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\Isa100\dmap.c</Filename><XPos>0</XPos><YPos>384</YPos><SelStart>14625</SelStart><SelEnd>14625</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\usart.c</Filename><XPos>0</XPos><YPos>357</YPos><SelStart>18165</SelStart><SelEnd>18181</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\ipv4\udp.c</Filename><XPos>0</XPos><YPos>710</YPos><SelStart>31558</SelStart><SelEnd>31558</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\usart.h</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>1009</SelStart><SelEnd>1019</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\ISA100\dmap_dpo.h</Filename><XPos>0</XPos><YPos>145</YPos><SelStart>5365</SelStart><SelEnd>5383</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sources\CC2520\CC2520.c</Filename><XPos>0</XPos><YPos>341</YPos><SelStart>12820</SelStart><SelEnd>12820</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013afbc0><key>iaridepm.enu1</key></Toolbar-013afbc0></Sizes></Row0><Row1><Sizes><Toolbar-0819eab8><key>debuggergui.enu1</key></Toolbar-0819eab8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>524</Bottom><Right>274</Right><x>-2</x><y>-2</y><xscreen>-2748774</xscreen><yscreen>-2022923</yscreen><sizeHorzCX>-2147479687</sizeHorzCX><sizeHorzCY>-2147476644</sizeHorzCY><sizeVertCX>215625</sizeVertCX><sizeVertCY>558386</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>349</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>351</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>372611</sizeHorzCY><sizeVertCX>198438</sizeVertCX><sizeVertCY>421444</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
